@@ -1,2 +1,2 @@
 # Explore-HTML
-![Alt text](./explore-html.png)
+![Alt text](./output.png)
